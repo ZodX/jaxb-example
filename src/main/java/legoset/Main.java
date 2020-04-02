@@ -15,7 +15,7 @@ public class Main {
         lego.setNumber(75211);
         lego.setName("Imperial TIE Figther");
         lego.setTheme("Star Wars");
-        lego.setSubtheme("Solo");java.net.MalformedURLException
+        lego.setSubtheme("Solo");
         lego.setYear(Year.of(2018));
         lego.setPieces(519);
         lego.setTags(List.of("Starfighter", "Stormtrooper", "Star Wars", "Solo"));
