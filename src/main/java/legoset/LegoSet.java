@@ -3,6 +3,7 @@ package legoset;
 import java.net.URL;
 import java.time.Year;
 import java.util.List;
+import java.util.Set;
 import lombok.Data;
 import movie.YearAdapter;
 
@@ -26,7 +27,7 @@ public class LegoSet {
 
     @XmlElementWrapper()
     @XmlElement(name = "tag")
-    private List<String> tags;
+    private Set<String> tags;
 
     @XmlElementWrapper()
     @XmlElement(name = "minifig")
