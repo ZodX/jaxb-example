@@ -1,5 +1,6 @@
 package legoset;
 
+import java.net.URL;
 import java.time.Year;
 import java.util.List;
 import lombok.Data;
@@ -32,4 +33,6 @@ public class LegoSet {
     private List<Minifig> minifigs;
 
     private Weight weight;
+
+    private URL url;
 }
