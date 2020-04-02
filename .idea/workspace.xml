@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f291512-83af-4a14-833e-1953ab85b6d9" name="Default Changelist" comment="" />
+    <list default="true" id="4f291512-83af-4a14-833e-1953ab85b6d9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/legoset/LegoSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/legoset/LegoSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/legoset/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/legoset/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/legoset/LegoSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/legoset/LegoSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/legoset/Main.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +76,7 @@
       <updated>1585764913928</updated>
       <workItem from="1585764917724" duration="888000" />
       <workItem from="1585765824604" duration="3769000" />
-      <workItem from="1585823736583" duration="422000" />
+      <workItem from="1585823736583" duration="1337000" />
     </task>
     <servers />
   </component>
@@ -82,22 +88,22 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2653" y="278" width="424" height="479" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1020@1920.0.1920.1080" timestamp="1585824226774" />
-    <state width="1858" height="303" key="GridCell.Tab.0.bottom" timestamp="1585824232481">
+    <state width="1858" height="303" key="GridCell.Tab.0.bottom" timestamp="1585825091253">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1858" height="303" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1020@1920.0.1920.1080" timestamp="1585824232481" />
-    <state width="1858" height="303" key="GridCell.Tab.0.center" timestamp="1585824232480">
+    <state width="1858" height="303" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1020@1920.0.1920.1080" timestamp="1585825091253" />
+    <state width="1858" height="303" key="GridCell.Tab.0.center" timestamp="1585825091252">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1858" height="303" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1020@1920.0.1920.1080" timestamp="1585824232480" />
-    <state width="1858" height="303" key="GridCell.Tab.0.left" timestamp="1585824232480">
+    <state width="1858" height="303" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1020@1920.0.1920.1080" timestamp="1585825091252" />
+    <state width="1858" height="303" key="GridCell.Tab.0.left" timestamp="1585825091252">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1858" height="303" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1020@1920.0.1920.1080" timestamp="1585824232480" />
-    <state width="1858" height="303" key="GridCell.Tab.0.right" timestamp="1585824232480">
+    <state width="1858" height="303" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1020@1920.0.1920.1080" timestamp="1585825091252" />
+    <state width="1858" height="303" key="GridCell.Tab.0.right" timestamp="1585825091252">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1858" height="303" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1020@1920.0.1920.1080" timestamp="1585824232480" />
+    <state width="1858" height="303" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1020@1920.0.1920.1080" timestamp="1585825091252" />
     <state x="2558" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1585823746701">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
